@@ -1,7 +1,7 @@
 ![status](https://img.shields.io/badge/status-online-brightgreen)
 ![.NET](https://img.shields.io/badge/.NET-API-blue)
 
-# API-Login
+# Genius API
 _Desenvolvido por: Marcus_
 
 ## Link da API:
@@ -10,11 +10,11 @@ api-login-genius.up.railway.app
 [Clique aqui](https://api-login-genius.up.railway.app/swagger) para testar a api.
 
 ## Sobre
-Este projeto é uma API de Login onde a aplicação faz duas coisas principais:
+Genius é uma API de Login, onde a aplicação faz duas coisas principais:
 1. Registra as credenciais do usuário
 2. Valida o acesso caso esteja registrado
 
-A aplicação possui criptografia de senhas e autenticação via token,
+ela também possui criptografia de senhas e autenticação via token,
 além da integração com MySQL, tudo de forma acessível ao público.
 
 ## Recursos utilizados
