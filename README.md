@@ -2,6 +2,7 @@
 ![.NET](https://img.shields.io/badge/.NET-API-blue)
 
 # API-Login
+_Desenvolvido por: Marcus_
 
 ## Link da API:
 api-login-genius.up.railway.app
