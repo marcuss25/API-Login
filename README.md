@@ -1,13 +1,11 @@
-![status](https://img.shields.io/badge/status-online-brightgreen)
-![.NET](https://img.shields.io/badge/.NET-API-blue)
+![status](https://img.shields.io/badge/Desligado-gray)
 
 # Genius API
 _Desenvolvido por: Marcus_
 
-## Link da API:
-api-login-genius.up.railway.app
+_Desenvolvido por: marcuss25_
 
-[Clique aqui](https://api-login-genius.up.railway.app/swagger) para testar a api.
+**Tenha cuidado ao utilizar o código. Ajuste-o da sua maneira antes de usar em algum projeto.**
 
 ## Sobre
 Genius é uma API de Login, onde a aplicação faz duas coisas principais:
@@ -17,14 +15,16 @@ Genius é uma API de Login, onde a aplicação faz duas coisas principais:
 ela também possui criptografia de senhas e autenticação via token,
 além da integração com MySQL, tudo de forma acessível ao público.
 
+Atualmente, o projeto já foi desligado da nuvem, mas o código fonte vai permanecer aberto para quem desejar utilizar.
+
 ## Recursos utilizados
 * ASP.NET Core
 * JWT (JSON Web Token)
 * MySQL
-* Railway (deploy)
+* ~~Railway (deploy)~~
 
 ## Autenticação
-A API usa o JWT para autenticar o usuário. Após o login, é gerado um token JWT próprio
+A API usa o JWT para autenticar o usuário. Após o primeiro login, é gerado um token próprio que é vinculado ao usuário no banco de dados. 
 
 ## Endpoints:
 ### /register
